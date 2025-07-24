@@ -1,7 +1,7 @@
 # 🧠 LLM Analytics Dashboard
 
 A lightweight observability tool for LLM-based applications.  
-It captures and visualizes prompt logs, model responses, token usage, latency, and cost — all in a clean Streamlit dashboard.
+It captures and visualizes prompt logs, model responses, token usage, latency, and cost — made easy through a Streamlit dashboard
 
 ---
 
@@ -29,11 +29,9 @@ This project helps developers:
 ## 📦 Tech Stack
 
 - **Python**
-- **OpenAI API (optional)**
 - **SQLAlchemy**
 - **Streamlit**
 - **SQLite / PostgreSQL**
-- **dotenv**
 
 ---
 
