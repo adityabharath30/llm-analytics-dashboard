@@ -1,0 +1,10 @@
+# Ignore virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore database file (optional if you want a clean repo)
+logs.db
+
+# Ignore API keys and secrets
+.env
