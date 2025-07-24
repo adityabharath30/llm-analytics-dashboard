@@ -5,7 +5,7 @@ It captures and visualizes prompt logs, model responses, token usage, latency, a
 
 ---
 
-## 🔍 Why This Exists
+## 🔍 Problem Statement + Solution
 
 Most LLM apps today lack visibility into what's really happening with prompts, models, and API usage.  
 This project helps developers:
