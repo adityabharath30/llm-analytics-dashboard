@@ -67,8 +67,6 @@ This project addresses those gaps by instrumenting LLM calls directly inside the
 | No prompt visibility | Full prompt/response observability |
 | Static dashboards | Custom, extensible analytics |
 
-This system treats LLMs as **production ML services**, not opaque API calls.
-
 ---
 
 ## Tech Stack
@@ -98,9 +96,3 @@ This system treats LLMs as **production ML services**, not opaque API calls.
 - Multi-provider support
 - Exportable logs for offline analysis
 - Integration with existing observability tools
-
----
-
-## Summary
-
-This project demonstrates how to apply **MLOps principles — observability, monitoring, and cost control — to LLM-powered systems**, bridging the gap between provider metrics and real production needs.
